@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(red,green);
+    text-align: center;
+}
+div{
+    background: turquoise;
+    font-size: xx-large;
+    margin-bottom: 30px;
+}
+
+input{
+    background-color: chartreuse;
+    width: 50%;
+    
+}
+button{
+    background: chartreuse;
+}
