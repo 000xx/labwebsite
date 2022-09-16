@@ -1,9 +1,9 @@
 body {
-    background: linear-gradient(red,green);
+    background: linear-gradient(rgb(233, 24, 233),rgb(255, 255, 255));
     text-align: center;
 }
 div{
-    background: turquoise;
+    color: rgb(0, 0, 0);
     font-size: xx-large;
     margin-bottom: 30px;
 }
@@ -13,6 +13,4 @@ input{
     width: 50%;
     
 }
-button{
-    background: chartreuse;
-}
+
